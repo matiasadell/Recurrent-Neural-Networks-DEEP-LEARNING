@@ -1,11 +1,4 @@
-# Redes Neuronales Recurrentes (RNR)
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  4 19:32:12 2020
-
-@author: juangabriel
-"""
+# Recurrent-Neural-Networks
 
 # Parte 1 - Preprocesado de los datos
 
@@ -94,9 +87,3 @@ plt.xlabel("Fecha")
 plt.ylabel("Precio de la accion de Google")
 plt.legend()
 plt.show()
-
-
-
-
-
-
